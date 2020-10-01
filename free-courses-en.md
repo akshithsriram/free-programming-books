@@ -393,6 +393,8 @@
 ### R
 
 * [R Programming](https://www.coursera.org/course/rprog)
+* [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+* [R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
 
 
 ### RethinkDB
@@ -404,6 +406,7 @@
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
+
 
 
 ### Scala
@@ -423,6 +426,7 @@
 ### SQL
 
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
+* [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 
 ### Swift
